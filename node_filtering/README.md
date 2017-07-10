@@ -1,0 +1,1 @@
+This [simple interaction](https://bl.ocks.org/colbenkharrl/dcb5590173931bb594e195020aaa959d) demonstrates how to filter nodes (and their respective links) in a [Force-Directed Graph](https://bl.ocks.org/mbostock/4062045) using D3.js version 4. It follows the new [General Update Pattern](https://bl.ocks.org/mbostock/3808218) in order to add and remove elements as needed.
